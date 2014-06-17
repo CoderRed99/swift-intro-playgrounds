@@ -5,12 +5,15 @@
       location = "group:01-Literals.playground">
    </FileRef>
    <FileRef
-      location = "group:02-Operators.playground">
+      location = "group:02-Types.playground">
    </FileRef>
    <FileRef
-      location = "group:03-Types.playground">
+      location = "group:03-Operators.playground">
    </FileRef>
    <FileRef
       location = "group:04-Functions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:99-FunWithPlaygrounds.playground">
    </FileRef>
 </Workspace>
